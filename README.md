@@ -1,7 +1,7 @@
 <h2> Saluton, mi estas Leticia. 
 </h2>
 
-<img align="right" src="doll.png" width="300">
+<img align="right" src="kitty.png" width="300">
 
 <p><em>
 Estudante de Desenvolvimento de Sistemas no <b>SENAI</b>
