@@ -10,15 +10,14 @@ Estudante de Desenvolvimento de Sistemas no <b>SENAI</b>
 
 ---
 
-## ↪︎ Sobre mim
+### **<font size="5">↪︎ Sobre mim</font>**
 
-- Estudante de Desenvolvimento de Sistemas  
 - Interessada em **programação e desenvolvimento web**  
 - Atualmente aprendendo **JavaScript, Java, Python, Design Gráfico e Low code.**
 
 ---
 
-## ↪︎ Tecnologias
+### ↪︎ Tecnologias
 
 <div>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,7 +30,7 @@ Estudante de Desenvolvimento de Sistemas no <b>SENAI</b>
 
 ---
 
-## ↪︎ Redes sociais
+### ↪︎ Redes sociais
 
 <div>
 
