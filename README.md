@@ -1,8 +1,7 @@
 <h2> Saluton, mi estas Leticia. 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNtazh3Z3NocGdmNHBia3A1YW1qdHA2bndjOXltcWswdm0xMXJwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8xnLp0v1Mf1elB0n6T/giphy.gif" width="50">
 </h2>
 
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRoamc5bjNhN2ZwY3picmo5dDNmMjN5enprMm5tOTFmZHFmNzJzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4asRlBKdJaPeBahjcL/giphy.gif" width="300">
+<img align="right" src="/mnt/data/b2e2fc67bac9eee3a5327941bad7ab67-removebg-preview.png" width="300">
 
 <p><em>
 Estudante de Desenvolvimento de Sistemas no <b>SENAI</b>
@@ -15,7 +14,7 @@ Estudante de Desenvolvimento de Sistemas no <b>SENAI</b>
 
 - Estudante de Desenvolvimento de Sistemas  
 - Interessada em **programação e desenvolvimento web**  
-- Atualmente aprendendo **JavaScript, Java, Python e Design**
+- Atualmente aprendendo **JavaScript, Java, Python, Design Gráfico e Low code.**
 
 ---
 
@@ -26,16 +25,8 @@ Estudante de Desenvolvimento de Sistemas no <b>SENAI</b>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
----
-
-## ↪︎ Estatísticas do GitHub
-
-<div>
-<a href="https://github.com/Shyzees">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shyzees&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyzees&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="30" width="40" src="c.png">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
 
 ---
@@ -64,7 +55,7 @@ Estudante de Desenvolvimento de Sistemas no <b>SENAI</b>
 
 ---
 
-✉ NOTA: Os principais idiomas não indicam meu nível de habilidade.  
+NOTA: Os principais idiomas não indicam meu nível de habilidade.  
 Eles apenas mostram as linguagens mais usadas nos meus repositórios.
 
 ---
