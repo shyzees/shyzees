@@ -10,8 +10,8 @@
 
 [![AboutMe](https://img.shields.io/badge/ABOUT_ME-000000?style=for-the-badge&logo=vercel&logoColor=white)](xxx)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shyzees)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://wa.me/qr/TPMMAZY57KT2J1](https://wa.me/47999364911?text=Ol%C3%A1%2C%20tudo%20bem%3F%20vim%20pelo%20seu%20Github%21))
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/leticiaxlim/))
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/47999364911?text=Ol%C3%A1%2C%20tudo%20bem%3F%20vim%20pelo%20seu%20Github%21)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiaxlim/)
 
 </div>
 
